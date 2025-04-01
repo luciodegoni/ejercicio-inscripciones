@@ -24,4 +24,4 @@ Materia y Alumno; se pide:
   
 ## Diagrama de Clases
 
-![Diagrama de Clases](docs/diagrama.png)
+![Diagrama de Clases](diagrama.png)
